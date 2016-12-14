@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+html{
+	background: url(../images/dice.jpg) no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: 100vh
+}
+body{
+	background:transparent;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Aref Ruqaa', serif;
+}
+p{
+	font-size: 18px;
+}
+.row{
+	background: rgba(0, 0, 0, 0.56);
+}
+.btn-primary{
+	border:#D50000;
+	background: #D50000;
+}
+.btn-primary:hover{
+	border:#B71C1C;
+	background: #B71C1C;
+}
+.btn-primary:focus{
+	border:#D50000;
+	background: #D50000;
+}
+
